@@ -1,0 +1,54 @@
+
+s       2843 Tue Aug 06 16:26:50 CDT 2013 META-INF/MANIFEST.MF
+        2964 Tue Aug 06 16:26:50 CDT 2013 META-INF/MOJANGCS.SF
+        5274 Tue Aug 06 16:26:50 CDT 2013 META-INF/MOJANGCS.RSA
+sm      1832 Sun Apr 05 21:25:46 CDT 2009 char.png
+sm      3054 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/character/Cube.class
+sm      1425 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/character/Polygon.class
+sm       872 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/character/Vec3.class
+sm      1077 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/character/Vertex.class
+sm      2682 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/character/Zombie.class
+sm      1483 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/character/ZombieModel.class
+sm      3841 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/Entity.class
+sm       523 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/HitResult.class
+sm      3089 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/level/Chunk.class
+sm      1654 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/level/DirtyChunkSorter.class
+sm      5971 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/level/Frustum.class
+sm      6919 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/level/Level.class
+sm       231 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/level/LevelListener.class
+sm      6549 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/level/LevelRenderer.class
+sm      2023 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/level/PerlinNoiseFilter.class
+sm      2771 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/level/Tesselator.class
+sm      2445 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/level/tile/Bush.class
+sm       376 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/level/tile/DirtTile.class
+sm      1287 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/level/tile/GrassTile.class
+sm      5599 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/level/tile/Tile.class
+sm       314 Sat May 16 13:48:14 CDT 2009 com/mojang/minecraft/MinecraftApplet.class
+sm      2624 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/particle/Particle.class
+sm      2568 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/particle/ParticleEngine.class
+sm      2664 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/phys/AABB.class
+sm      1296 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/Player.class
+sm     12319 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/RubyDung.class
+sm      3124 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/Textures.class
+sm      1049 Sat May 16 13:47:36 CDT 2009 com/mojang/minecraft/Timer.class
+sm      5600 Thu May 21 03:02:00 CDT 2009 terrain.png
+           0 Tue Aug 06 13:50:40 CDT 2013 com/mojang/
+           0 Tue Aug 06 13:50:40 CDT 2013 com/mojang/minecraft/
+           0 Tue Aug 06 13:50:40 CDT 2013 com/mojang/minecraft/character/
+           0 Tue Aug 06 13:50:40 CDT 2013 com/mojang/minecraft/level/
+           0 Tue Aug 06 13:50:40 CDT 2013 com/mojang/minecraft/level/tile/
+           0 Tue Aug 06 13:50:40 CDT 2013 com/mojang/minecraft/particle/
+           0 Tue Aug 06 13:50:40 CDT 2013 com/mojang/minecraft/phys/
+
+  s = signature was verified 
+  m = entry is listed in manifest
+  k = at least one certificate was found in keystore
+  i = at least one certificate was found in identity scope
+
+jar verified.
+
+Warning: 
+This jar contains entries whose signer certificate has expired. 
+This jar contains entries whose certificate chain is not validated.
+
+Re-run with the -verbose and -certs options for more details.
