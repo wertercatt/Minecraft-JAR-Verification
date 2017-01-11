@@ -1,0 +1,8 @@
+
+  s = signature was verified 
+  m = entry is listed in manifest
+  k = at least one certificate was found in keystore
+  i = at least one certificate was found in identity scope
+
+no manifest.
+jar is unsigned. (signatures missing or not parsable)

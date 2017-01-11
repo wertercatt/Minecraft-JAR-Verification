@@ -1,0 +1,1 @@
+jarsigner: java.lang.SecurityException: SHA1 digest error for char.png
