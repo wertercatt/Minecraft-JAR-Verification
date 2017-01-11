@@ -1,2 +1,2 @@
 # Minecraft-JAR-Verification
-jarsigner verifications of Minecraft JAR files.
+jarsigner verified Minecraft JAR files from https://sites.google.com/site/luigi2600sgamehackingsite/minecraft-the-lost-versions.
